@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "856809831989",
+    "firebase_url": "https://mysqlandroid-e7a8e.firebaseio.com",
+    "project_id": "mysqlandroid-e7a8e",
+    "storage_bucket": "mysqlandroid-e7a8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856809831989:android:7b66c77b46663a82",
+        "android_client_info": {
+          "package_name": "mysqltest.app.mysqlconnnection2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856809831989-fmrdv8e0ct9hkd5ksm887s65lo3in6j7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9r0KLaeooaaMQxykHYewwChFBOPSG6Bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856809831989-fmrdv8e0ct9hkd5ksm887s65lo3in6j7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
